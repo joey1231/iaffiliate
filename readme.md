@@ -47,7 +47,7 @@ then paste * * * * * php /path-to-your-project/artisan schedule:run >> /dev/null
 
 # Clone Project 
 1. go to cd /var/www/html
-2. git clone https://joey1234@bitbucket.org/joey1234/iaffiliate.git
+2. git clone this project
 
 
 # Setup your database on .env
